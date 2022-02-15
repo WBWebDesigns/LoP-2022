@@ -1,0 +1,42 @@
+General Overview of Activations
+
+Arrival Confirmation:
+	Intro Video on loop until scan
+	dip fade to black
+	Load winner name video
+	dip fade to black
+	Intro video loop
+
+Sunglasses:
+
+
+Gift Suite v3:
+	TBD
+
+Giving Wall:
+	Intro Video
+	Hasn't given:
+		Options
+		Confirmation
+	Has given:
+		Thanks for donating to XXX on video
+
+Name in Lights - Escalator:
+Name in Lights - Pillar:
+	Intro Video on loop until scan
+	dip fade to black
+	Load winner name video
+	dip fade to black
+	Intro video loop
+
+Legends Wall of Fame:
+	Login Video
+	Personalized Video - TBD
+	Search
+		Other's Personalized Videos
+
+Photowall:
+	Idle screensaver loop
+	dip fade to black
+	Display Images
+	Side bar to share perhaps
