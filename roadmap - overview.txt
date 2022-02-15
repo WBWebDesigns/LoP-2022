@@ -16,10 +16,15 @@ Gift Suite v3:
 Giving Wall:
 	Intro Video
 	Hasn't given:
-		Options
+		Three verticle columns
+			A highlight video at the top
+			A description in the middle
+			Two buttons at the button:
+				Learn More
+				Confirm
 		Confirmation
 	Has given:
-		Thanks for donating to XXX on video
+		'Thanks for donating to {selected_charity}' on video
 
 Name in Lights - Escalator:
 Name in Lights - Pillar:
