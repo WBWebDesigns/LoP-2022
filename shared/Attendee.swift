@@ -9,6 +9,13 @@ struct Attendee: Codable, Equatable {
         case host
     }
     
+    enum Charity {
+        case none
+        case a
+        case b
+        case c
+    }
+    
     var uniqueID: String
     var winnerID: String
     var firstName: String
@@ -17,4 +24,5 @@ struct Attendee: Codable, Equatable {
     var role: Role
     var glassesReceived: Bool
     var giftSuiteReceived: Bool
+    var charitySelected: Charity
 }
