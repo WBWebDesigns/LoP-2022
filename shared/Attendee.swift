@@ -1,4 +1,5 @@
 // Attendee Data Object
+
 import Foundation
 
 struct Attendee: Codable, Equatable {
@@ -35,4 +36,8 @@ struct Attendee: Codable, Equatable {
     var lineOfBusiness: String
     var division: String
     var state: String
+    
+    // For Autofill
+    var phone: String
+    var email: String
 }
