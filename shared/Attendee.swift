@@ -3,13 +3,13 @@
 import Foundation
 
 struct Attendee: Codable, Equatable {
-    enum Role {
+    enum Role: Codable {
         case winner
         case guest
         case host
     }
     
-    enum Charity {
+    enum Charity: Codable {
         case none
         case a
         case b
@@ -23,7 +23,7 @@ struct Attendee: Codable, Equatable {
     var middleInitial: String
     var lastName: String
     var fullName: String {
-        var nameArray = [firstName, middleInitial, lastName]
+        let nameArray = [firstName, middleInitial, lastName]
         return nameArray.filter({ $0 != ""}).joined(separator: " ")
     }
     
