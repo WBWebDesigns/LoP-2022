@@ -2,19 +2,7 @@
 
 import Foundation
 
-struct Attendee: Codable, Equatable {
-    enum Role: Codable {
-        case winner
-        case guest
-        case host
-    }
-    
-    enum Charity: Codable {
-        case none
-        case a
-        case b
-        case c
-    }
+public struct Attendee: Codable, Equatable {
     
     var uniqueID: String
     var winnerID: String
@@ -39,5 +27,4 @@ struct Attendee: Codable, Equatable {
     
     // For Autofill
     var phone: String
-    var email: String
 }
