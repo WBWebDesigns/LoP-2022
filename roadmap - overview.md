@@ -2,9 +2,9 @@
 
 ## Arrival Confirmation:
 	1. Idle Video on loop until scan
-	2. Dip/fade to black
+	2. Crossfade (need to talk to ralph about this)
 	3. Load winner name video
-	4. Dip/fade to black
+	4.(need to talk to ralph about this)
 	5. Intro video loop
 
 ## Sunglasses:
@@ -16,16 +16,14 @@
 
 ## Giving Wall:
 	* Requires Server
-	1. Idle Video
-	2. Hasn't given:
-		- Three vertical columns:
-			- A highlight video at the top
-			- A description in the middle
-			- Two buttons at the button:
-				- Learn More:
-				- Confirm
-		- Confirmation
-	3. Has given:
+	1. Idle Video / pie chart graph loop
+	2. Load screen with 3 icons
+	3. User taps icon to get expanded view of charity
+	4. User can tap confirm to donate, or go back to go back to step 4
+	5. Animation shows of bar filling up 30%
+	6. User is shown summary screen of amounts given so far to each charity
+	7. Go back to idle video / pi
+	8. Has given:
 		- 'Thanks for donating to {selected_charity}' on video
 
 ## Name in Lights - Escaltor/Pillar:
