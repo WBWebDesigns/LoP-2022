@@ -11,9 +11,11 @@
 	- Paul is apparently taking care of this.
 
 ## Gift Suite v3:
+	* Requires Server
 	- TBD
 
 ## Giving Wall:
+	* Requires Server
 	1. Idle Video
 	2. Hasn't given:
 		- Three vertical columns:
@@ -41,6 +43,7 @@
 		- Other's Personalized Videos
 
 ## Photowall:
+	* Requires Server
 	1. Idle video
 	2. Dip/fade to black
 	3. Display Images
@@ -57,7 +60,7 @@
 			- Twilio
 	
 	2. Check Gift Suite Status:
-		1.Query if attendee has already received glasses:
+		1. Query if attendee has already received glasses:
 			- If No:
 				- Return No
 				- Flag database that they have received glasses
