@@ -1,19 +1,19 @@
-###General Overview of Activations
+### General Overview of Activations
 
-##Arrival Confirmation:
+## Arrival Confirmation:
 	1. Idle Video on loop until scan
 	2. Dip/fade to black
 	3. Load winner name video
 	4. Dip/fade to black
 	5. Intro video loop
 
-##Sunglasses:
+## Sunglasses:
 	- Paul is apparently taking care of this.
 
-##Gift Suite v3:
+## Gift Suite v3:
 	- TBD
 
-##Giving Wall:
+## Giving Wall:
 	1. Idle Video
 	2. Hasn't given:
 		- Three vertical columns:
@@ -26,21 +26,21 @@
 	3. Has given:
 		- 'Thanks for donating to {selected_charity}' on video
 
-##Name in Lights - Escaltor/Pillar:
+## Name in Lights - Escaltor/Pillar:
 	1. Idle Video on loop until scan
 	2. Dip/fade to black
 	3. Load winner name video
 	4. Dip/fade to black
 	5. Idle video loop
 
-##Legends Wall of Fame:
+## Legends Wall of Fame:
 	1. Idle Video
 	2. Personalized Video - TBD:
 		- Disable buttons during plaback
 	3. Search:
 		- Other's Personalized Videos
 
-##Photowall:
+## Photowall:
 	1. Idle video
 	2. Dip/fade to black
 	3. Display Images
@@ -49,7 +49,7 @@
 			- Email
 			- cellphone number
 
-##Server:
+## Server:
 	1. Handle Share photo:
 		- Email:
 			- Standard php mailer
